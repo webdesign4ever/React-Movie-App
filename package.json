@@ -1,7 +1,7 @@
 {
   "homepage": "https://webdesign4ever.github.io/React-Movie-App",
   "name": "react_movie_app",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
