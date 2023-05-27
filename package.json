@@ -1,5 +1,5 @@
 {
-  "homepage": "https://webdesign4ever.github.io/React-Movie-App",
+  "homepage": "http://webdesign4ever.github.io/React-Movie-App",
   "name": "react_movie_app",
   "private": true,
   "version": "0.0.0",
@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
